@@ -1,0 +1,21 @@
+<<<<<<< HEAD:firstWebsite/styles.css
+=======
+ul{
+  padding: 10px;
+  text-align: center;
+}
+li{
+  padding: 0px 10px 0px 10px;
+  display: inline;
+}
+h1 {
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+p#adaquote{
+  text-align: center;
+  font-style: italic;
+}
+>>>>>>> aafe7b51911c5a5bb6fb49741ddefc147731e1be:firstWebsite/custom-styles.css
