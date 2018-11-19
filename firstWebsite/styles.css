@@ -1,10 +1,11 @@
-ul li{
-  display : inline;
+ul{
+  padding: 10px;
   text-align: center;
-<<<<<<< HEAD
+}
+li{
+  padding: 0px 10px 0px 10px;
+  display: inline;
 }
 h1 {
   text-align: center;
-=======
->>>>>>> 0ab824aedbef830c69607f390c1d7cbe17b4327b
 }
