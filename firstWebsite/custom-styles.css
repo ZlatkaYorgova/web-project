@@ -12,3 +12,7 @@ h1 {
 h2{
   text-align: center;
 }
+p#adaquote{
+  text-align: center;
+  font-style: italic;
+}
