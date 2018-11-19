@@ -1,3 +1,9 @@
+head{
+      text-align: center;
+      background: black);
+      background-size: cover;
+      color: white;
+    }
 ul li{
   display : inline;
 }
