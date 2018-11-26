@@ -6,6 +6,10 @@ li{
   padding: 0px 10px 0px 10px;
   display: inline;
 }
+button:hover{
+  background-color: #FFF;
+  color: #000;
+}
 h1 {
   text-align: center;
 }
