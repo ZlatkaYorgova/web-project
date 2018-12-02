@@ -1,3 +1,7 @@
+header{
+  background-image: url("pictures/header.jpg");
+  padding-top: 20px;
+}
 ul{
   padding: 10px;
   text-align: center;
@@ -10,8 +14,7 @@ button:hover{
   background-color: #FFF;
   color: #000;
 }
-
-h1 {
+h1{
   text-align: center;
 }
 h2 {
