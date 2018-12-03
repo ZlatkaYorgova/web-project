@@ -1,0 +1,19 @@
+header{
+  background-image: url("pictures/header.jpg");
+  padding-top: 20px;
+}
+ul{
+  padding: 10px;
+  text-align: center;
+}
+li{
+  padding: 0px 10px 0px 10px;
+  display: inline;
+}
+button:hover{
+  background-color: #FFF;
+  color: #000;
+}
+h1 {
+  text-align: center;
+}
